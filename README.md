@@ -4,7 +4,7 @@ In my process of learning rust I want to create a rust cli app.
 
 I'm following the book "Command-Line Rust" by Ken Youens-Clark.
 
-The idea is learn the basics from the book and try to recreate a more complicated command of linux in rust.
+The idea is learn the basics from the book and try to recreate more complicated command of linux in rust.
 
 ## What I learn
 
