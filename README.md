@@ -15,3 +15,5 @@ Then for now I learn:
 - Clap basics
 - Rust testing, very basic approach
 - How works the reading of args in rust
+- How works the result type
+- How implement a CI for run the tests on github (on my own, it's not part of the book)
