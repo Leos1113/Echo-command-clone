@@ -27,5 +27,5 @@ fn main() {
 
     let ending = if omit_newline { "" } else { "\n" };
 
-    print!("{:?}{}", text.join(" "), ending);
+    print!("{}{}", text.join(" "), ending);
 }
